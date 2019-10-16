@@ -1,10 +1,6 @@
 # AltaCV, yet another LaTeX CV/Résumé class
 
 ![Alt text](assets/Tanmay_Resume_Latex.jpg?raw=true "Title")
-## Samples
-
-This is how the re-created résumé looks like ([view/open on Overleaf](https://www.overleaf.com/latex/examples/recreating-business-insiders-cv-of-marissa-mayer-using-altacv/gtqfpbwncfvp)):
-
 
 ## Requirements and Compilation
 
